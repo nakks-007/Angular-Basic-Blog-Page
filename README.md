@@ -128,9 +128,9 @@ Or visit the official Angular CLI documentation: [Angular CLI Overview and Comma
 
 Feel free to connect for collaboration or queries!
 
+- Portfolio: [naga-muruga-portfolio.netlify.app](https://naga-muruga-portfolio.netlify.app/)
 - GitHub: [nakks-007](https://github.com/nakks-007)
-- LinkedIn: [linkedin.com/in/naga-muruga](https://www.linkedin.com/in/naga-muruga/)
-- Portfolio: [naga-muruga-portfolio.netlify.app][(https://naga-muruga-portfolio.netlify.app/)]
+- LinkedIn: [Naga Muruga](https://www.linkedin.com/in/naga-muruga/)
 
 ***
 
